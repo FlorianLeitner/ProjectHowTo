@@ -1,5 +1,7 @@
 * {
 background-color: #39393a; color: #ff8552;
+padding-left: 10px;
+padding-right: 10px;
 }
 
 h1 {
@@ -34,12 +36,24 @@ h4{
 a {
 color: #E6E6E6;
 text-decoration: underline;
-padding: 20px;
 }
 
-header{text-align: center;}
-nav{}
+header{
+	text-align: center;
+}
 
-#Comment{color: grey}
-.ingredients{background-color: orangered}
+#title{
+	background-color: black;
+	padding: 25px 0px 25px 0px;
+}
+
+#Comment{
+	color: grey; 
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.ingredients{
+	background-color: orangered;
+}
 
